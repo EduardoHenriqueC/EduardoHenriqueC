@@ -1,7 +1,9 @@
 Olá, eu sou Eduardo Henrique!
+
 Estudante do 2º semestre de Ciência da Computação, focado no desenvolvimento de soluções eficientes, funcionais e com boa experiência visual para o usuário.
 
 🚀 Sobre Mim
+
 🎓 Cursando Ciência da Computação.
 
 💡 Apaixonado por lógica de programação, estruturas de dados e desenvolvimento de software.
