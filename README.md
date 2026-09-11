@@ -2,7 +2,7 @@
 
 Estudante do 2º semestre de Ciência da Computação, focado no desenvolvimento de soluções eficientes, funcionais e com boa experiência visual para o usuário.
 
-🚀 Sobre Mim
+## 🚀 Sobre Mim
 
 🎓 Cursando Ciência da Computação.
 
@@ -12,7 +12,7 @@ Estudante do 2º semestre de Ciência da Computação, focado no desenvolvimento
 
 💼 Trabalhando no Magalu, tenho experiência com atendimento, comunicação e rotinas dinâmicas, o que fortalece minha visão orientada ao usuário final.
 
-🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 Linguagens em foco: Python | JavaScript
 
 Web & Estilização: HTML5 | CSS3 (responsividade e layouts semânticos)
@@ -21,14 +21,14 @@ Bancos de Dados & Arquitetura: SQL (SQLite / PostgreSQL) | Modelagem DER
 
 Design & Prototipagem: Wireframing | Princípios de UI/UX
 
-💻 Projetos em Destaque
+## 💻 Projetos em Destaque
 Cardápio Dinâmico: Projeto voltado para a prática de manipulação de dados e renderização dinâmica de itens de menu, focado na interatividade com o usuário.
 
 Dash de Metas: Dashboard interativo para organização e acompanhamento visual de metas, auxiliando na gestão de objetivos diários/semanais.
 
 EcoPonte: Solução de interface projetada em ambiente de Hackathon, focada na gestão e mitigação do desperdício de alimentos em tempo real.
 
-📚 Estudos & Aprendizado Contínuo
+## 📚 Estudos & Aprendizado Contínuo
 Acredito que a prática constante é a chave para a evolução na área de tecnologia. Atualmente, mantenho minha rotina de estudos focada em:
 
 🎯 Cursos Práticos: Trilha de aprendizado com foco em Python na plataforma DIO (Digital Innovation One).
