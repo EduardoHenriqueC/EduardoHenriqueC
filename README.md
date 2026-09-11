@@ -1,4 +1,4 @@
-Olá, eu sou Eduardo Henrique!
+# Olá, eu sou Eduardo Henrique!
 
 Estudante do 2º semestre de Ciência da Computação, focado no desenvolvimento de soluções eficientes, funcionais e com boa experiência visual para o usuário.
 
